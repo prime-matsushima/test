@@ -1,0 +1,15 @@
+C:\Users\matsushima\source\repos\SelfCSharp\bin\Debug\net6.0\SelfCSharp.exe
+C:\Users\matsushima\source\repos\SelfCSharp\bin\Debug\net6.0\SelfCSharp.deps.json
+C:\Users\matsushima\source\repos\SelfCSharp\bin\Debug\net6.0\SelfCSharp.runtimeconfig.json
+C:\Users\matsushima\source\repos\SelfCSharp\bin\Debug\net6.0\SelfCSharp.dll
+C:\Users\matsushima\source\repos\SelfCSharp\bin\Debug\net6.0\SelfCSharp.pdb
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.csproj.AssemblyReference.cache
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.AssemblyInfoInputs.cache
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.AssemblyInfo.cs
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.dll
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\refint\SelfCSharp.dll
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.pdb
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\SelfCSharp.genruntimeconfig.cache
+C:\Users\matsushima\source\repos\SelfCSharp\obj\Debug\net6.0\ref\SelfCSharp.dll
